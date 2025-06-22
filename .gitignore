@@ -1,0 +1,3 @@
+/employee-management_backend/target/
+/employee-management_frontend/node_modules/
+*.log
